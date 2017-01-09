@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1479906206 source:/home/oleksandr/OpenCVProjs/Finding_contours/main.cpp
+	"opencv2/core/core.hpp"
+	"opencv2/contrib/contrib.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/objdetect/objdetect.hpp"
+	"opencv2/opencv.hpp"
+	<iostream>
+	<fstream>
+	<sstream>
+
